@@ -32,4 +32,44 @@ html,body{
     background-color: #0f44ff;
 }
 
+.ri-caravan-fill{
+    font-size: 60px;
+    margin-right: 10px;
+}
 
+.ri-printer-cloud-fill, .ri-stack-fill, .ri-plant-fill{
+    font-size: 45px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.tom{
+    color: rgb(14,30,55);
+}
+
+.tom:hover a, .tom:hover h4, .tom:hover .ri-caravan-fill{
+    color: blue !important;
+    
+}
+
+.tom{
+    cursor: pointer;
+}
+
+.tommy{
+    color: rgb(25,51,92);
+}
+
+.josh p{
+    font-size: 15px;
+}
+
+.josh h4{
+  color: rgb(25,51,92);
+}
+
+.man{
+    color: rgb(83,102,133);
+}
