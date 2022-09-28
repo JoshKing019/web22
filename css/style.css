@@ -71,5 +71,18 @@ a{
 }
 
 .man{
-    color: rgb(83,102,133);
+    color:rgb(0,25,115);
+}
+
+.cardpart1:hover h5{
+    color: blue;
+}
+
+.manmustrich{
+    color: rgb(14,29,52);
+}
+
+#woman{
+  background-attachment: fixed;
+  background: linear-gradient(rgba(14, 29, 52, 0.6),rgba(14, 29, 52, 0.8)),url(/image/cta-bg.jpg);
 }
