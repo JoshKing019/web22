@@ -83,6 +83,91 @@ a{
 }
 
 #woman{
-  background-attachment: fixed;
+  background-attachment: fixed !important;
   background: linear-gradient(rgba(14, 29, 52, 0.6),rgba(14, 29, 52, 0.8)),url(/image/cta-bg.jpg);
 }
+
+.starboy{
+    padding: 10px 20px;
+}
+
+.ineedmoney{ 
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 13px 40px;
+    border-radius: 5px;
+    transition: 0.5s;
+    margin: 10px;
+    border: 2px solid #fff;
+    
+}
+
+.myheart {
+    padding: 100px 0;
+}
+
+#ilovemyex{
+    padding: 30px 0;
+}
+
+.starman{
+    color: rgb(0,25,115);
+}
+
+.ineedmoney:hover{
+    background-color: blue;
+    color: #fff;
+    border: 2px solid transparent;
+}
+
+.card{
+    border-radius: 0 !important;
+}
+
+.ourServicesTextDiv{
+    position: relative;
+}
+
+.ourServices1{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: #00197313;
+    font-weight: bold;
+    z-index: -1;
+}
+
+.pic1{
+    overflow: hidden;
+  }
+  
+  .pic1:hover img{
+    transform: scale(1.1);
+  }
+
+  .pic1 img{
+    transition: all 0.5s ease;
+  }
+
+#sapa{
+    padding:10px 60px;
+}
+
+  .mammmm{
+    font-size: 18px !important;
+  }
+
+  .joshua{
+    /* box-shadow: 3px 3px 3px rgb(228, 228, 228); */
+    border-radius: 5px;
+    padding: 30px 10px;
+    border: none;
+  }
+  
+  .just{
+    font-size: 53px;
+  }
